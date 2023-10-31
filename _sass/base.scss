@@ -147,15 +147,27 @@ html {
     top: 0px; }
 
 body {
-  background: #ffffff;
+  background: #eaeaea; /* 更改页面的背景颜色 */
   font-family: Roboto, sans-serif;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased;
+}
 
 .center-text {
-  text-align: center; }
+  text-align: center;
+}
 
 .container {
-  margin-top:30px;
+  margin-top: 30px;
+  background-color: #ffffff; /* 设置内容区域的背景颜色 */
+  padding: 20px; /* 添加一些内边距 */
+  border-radius: 8px; /* 添加圆角边框（如果你需要的话） */
+}
+
+.wrapper {
+  max-width: 1200px; /* 限制内容区域的最大宽度 */
+  margin: 0 auto; /* 确保内容居中 */
+}
+
 
   @media print {
     margin-top: 20px;
