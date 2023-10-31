@@ -39,8 +39,7 @@ googlescholar_username: https://scholar.google.com.au/citations?user=pKm8fHwAAAA
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
-about_content: | # this will include new lines to allow paragraphs
-Hello, my name is Yanli Li, and I am on the cusp of completing my doctoral journey. Throughout this intellectually enriching period, my research endeavors have been concentrated on "Enhancing Federated Learning Robustness and Fairness in Non-IID Scenarios." 
+about_content: | Hello, my name is Yanli Li, and I am on the cusp of completing my doctoral journey. Throughout this intellectually enriching period, my research endeavors have been concentrated on "Enhancing Federated Learning Robustness and Fairness in Non-IID Scenarios." 
 My research interests include Federated Learning, Computer Vision and Adversarial Machine Learning, I am eager to broaden my research horizons in the future.
 content:
   - title: Projects # Title for the section
