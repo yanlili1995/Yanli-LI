@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Yanli LI
+name: Yanli Li
 title: Artifitial Intelligence, Federated Learning, AI security, Machine Learning and More.
 email: frank970519@gmail.com
 # email_title: Email (Email title override)
@@ -41,9 +41,13 @@ googlescholar_username: pKm8fHwAAAAJ&hl
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Yanli Li, and I am on the cusp of completing my doctoral journey. 
+  
   &nbsp;
+  
   Throughout this intellectually enriching period, my research endeavors have been concentrated on "Enhancing Federated Learning Robustness and Fairness in Non-IID Scenarios." My academic pursuits encompass Federated Learning and Adversarial Machine Learning, and I am eager to broaden my research horizons in the future.
+  
   &nbsp;
+  
   My publications could be found at the right top <mark>G</mark> icon. 
 content:
   - title: Projects # Title for the section
