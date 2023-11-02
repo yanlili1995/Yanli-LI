@@ -1,5 +1,5 @@
 {% for item in include.content %}
-  <div class="row clearfix">
+  <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
   </div>
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
