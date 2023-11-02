@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       <strong style="font-size: 1.2em;">The University of Sydney</strong> (2017-Current)
 
 # Footer
