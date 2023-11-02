@@ -19,6 +19,8 @@
       {%- include about.html -%}
 
       {%- if site.version == 2 -%}
+
+        <br><br><br>
         {% for section in site.content %}
           <div class="container {{ section.layout }}-container">
             <h3 id="{{ section.title | slugify }}">{{ section.title }}</h3>
