@@ -53,7 +53,7 @@ content:
   - title: Education
     layout: text
     content: |
-      <strong style="font-size: 1.2em;">The University of Sydney</strong> (2017-Current)
+      <strong style="font-size: 1.2em;">The University of Sydney&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp2017-Current</strong>
 
 # Footer
 footer_show_references: true
