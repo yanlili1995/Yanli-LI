@@ -54,7 +54,7 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Institution name
+        title: The University of Sydney
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
         quote: >
