@@ -58,6 +58,8 @@ content:
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017-Current</strong>
       **School of Electrical and Computer Engineering**
+      &nbsp;
+      After completing my master's degree, I joined the University of Sydney to pursue a Ph.D. under the guidance of Dr. Yuan and Dr. Chen. I developed a keen interest in federated learning, particularly in its adversarial aspects. Federated learning is proposed to address the issue of data islands and the challenge of protecting user privacy in the real world—where user data cannot leave the user's device, yet there is still a desire to contribute data to train large models. Within the federated learning framework, users are often assumed to be potentially dishonest and malicious. In this context, I proposed several robust aggregation rules to mitigate the vulnerability of federated learning to attacks, tailored to different scenario requirements. Additionally, I also focused on issues related to fairness among different participants in distributed scenarios, as well as general problems in computer vision and language processing.
 
 # Footer
 footer_show_references: true
