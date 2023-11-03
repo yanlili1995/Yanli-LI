@@ -74,7 +74,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <img src="images/profile.png" alt="描述图片内容的文字">
+      <div style="text-align: center;">
+        <img src="images/profile.png" alt="描述图片内容的文字" style="max-width:30%; height:auto;">
+      </div>
 
  
 # Footer
