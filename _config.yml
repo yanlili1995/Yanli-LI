@@ -75,7 +75,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <div style="text-align: center;">
-        <img src="images/honor.jpg" alt="honour" style="max-width:50%; height:auto;">
+        <img src="images/honor.jpeg" alt="honour" style="max-width:50%; height:auto;">
       </div>
 
  
