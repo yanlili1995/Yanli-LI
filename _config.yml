@@ -54,6 +54,7 @@ content:
     layout: text
     content: |
       <strong style="font-size: 1.3em;">The University of Sydney (PhD) 2020-Current</strong>
+      &nbsp;
       **School of Electrical and Computer Engineering**
       &nbsp;
       
@@ -62,6 +63,7 @@ content:
       &nbsp;
       
       <strong style="font-size: 1.3em;">The University of Technology Sydney (Master in Software Development) 2018-2020</strong>
+      &nbsp;
       **School of Information Technology** 
       
   
