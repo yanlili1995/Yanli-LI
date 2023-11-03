@@ -70,8 +70,13 @@ content:
       **School of Software**<br>
 
       At Dalian University of Foreign Languages, I undertook four years of undergraduate studies where I gained a foundational knowledge of computer science. During this time, I learned programming languages such as C++, Objective-C, Java Script, Java, and PHP, as well as data structures and SQL database knowledge. Additionally, I studied Japanese as my first foreign language and English as my second, experiencing the charm of different languages. In 2017, I graduated from Dalian University of Foreign Languages as an outstanding graduate.<br><br>
+      
     - title: Skills, Abilities and More
-    layout: text
+      layout: text
+      content: |
+      <strong style="font-size: 1.3em;">2020-2023 | University of Sydney | PhD </strong><br>
+      
+      **School of Electrical and Computer Engineering**<br>
  
 # Footer
 footer_show_references: False
