@@ -40,11 +40,11 @@ googlescholar_username: pKm8fHwAAAAJ&hl
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Yanli Li, and I am currently work as a postdoc researcher at Nantong University (2024-) as well as a visting shcloar at the University of Sydney (2024-). 
+  Hello, my name is Yanli Li, and I am currently working as a postdoc researcher at Nantong University (2024-) as well as a visting shcloar at the University of Sydney (2024-). 
   
   &nbsp;
   
-  Under the PhD period, my research endeavors have been concentrated on **"Enhancing Federated Learning Robustness and Fairness in Non-IID Scenarios."** My academic pursuits encompass Federated Learning and Adversarial Machine Learning. Now, I expand my research areas to **DIfferential Privacy** and **Medical Applications** under FL landscape. Please find my publications at the right top <mark>G</mark> icon. 
+  Under the PhD period, my research endeavors have been concentrated on **"Enhancing Federated Learning Robustness and Fairness in Non-IID Scenarios."** My academic pursuits encompass Federated Learning and Adversarial Machine Learning. Now, I expand my research areas to **DIfferential Privacy** and **Medical Applications** under the FL landscape. Please find my publications at the right top <mark>G</mark> icon. 
 content:
   - title: Education
     layout: text
